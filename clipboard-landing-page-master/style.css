@@ -1,0 +1,62 @@
+html {
+  font-size: 67%;
+  font-family: "Montserrat", sans-serif !important;
+  box-sizing: border-box;
+}
+header {
+  background-image: url(images/bg-header-desktop.png);
+  height: 300px;
+}
+.headImg {
+  padding-top: 4%;
+}
+.access,
+.supercharge,
+.blacklist,
+.gooLogo {
+  padding-bottom: 5%;
+}
+.gooLogo img {
+  margin: 0 25px;
+}
+.cLogo {
+  width: 50px;
+  margin-top: 24px;
+}
+.topMar {
+  margin-top: 5%;
+}
+.threeSide {
+  margin-top: 70px;
+  padding: 15px;
+  width: 35%;
+}
+section button {
+  padding: 10px;
+  margin: 30px;
+  border-radius: 30px;
+}
+div .footerFaq a {
+  color: black;
+  text-decoration: none;
+  padding: 0 30px;
+  line-height: 1.2;
+}
+h1 {
+  font-weight: 600 !important;
+  font-family: "Montserrat", sans-serif !important;
+}
+p {
+  margin-left: auto;
+  margin-right: auto;
+}
+h2,
+h3,
+h4 {
+  color: rgb(83, 81, 81) !important;
+  font-weight: 600 !important;
+  font-family: "Montserrat", sans-serif !important;
+}
+.sidebar-content p {
+  margin-bottom: 50px;
+}
